@@ -9,7 +9,7 @@
         "RiZoeLXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/RiZoeLX/SpamX",
+  "repository": "https://github.com/XcuteboyX/SpamBot",
   "website": "https://github.com/RiZoeLX",
   "success_url": "https://t.me/RiZoeLX",
   "env": {
@@ -20,7 +20,7 @@
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "",
+        "value": "https://te.legra.ph/ᶦϻɪʟᴇɴᴄᴇʀ𐎭ɴᴜᴊ𐎭𐎋-02-05",
         "required": false
       },
       "API_HASH": {
@@ -100,7 +100,7 @@
         },
       "CMD_HNDLR": {
             "description": "Your Spam Userbot's Command handler",
-            "value": ".",
+            "value": "/",
             "required": false  
         }
     },
